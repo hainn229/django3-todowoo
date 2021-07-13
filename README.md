@@ -8,5 +8,4 @@
 <ul>
   <li>Python 3</li>
   <li>Django</li>
-  <li>HTML5</li>
 </ul>
